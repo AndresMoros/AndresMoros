@@ -1,19 +1,10 @@
 # 👋 ¡Hola! Soy Andrés Moros
 
-Desarrollador web frontend con sede en Madrid, apasionado por crear experiencias digitales atractivas y funcionales. Me especializo en HTML, CSS y JavaScript, y disfruto construyendo sitios web responsivos y accesibles. Actualmente, estoy ampliando mis conocimientos en frameworks modernos y buenas prácticas de desarrollo.
+Desarrollador web frontend, apasionado por crear experiencias digitales atractivas y funcionales. Me especializo en HTML, CSS y JavaScript, y disfruto construyendo sitios web responsivos y accesibles. Actualmente, estoy ampliando mis conocimientos en frameworks modernos y buenas prácticas de desarrollo.
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🎨 [AVA DECOR](https://github.com/AndresMoros/ava-decor)
-Mi primer proyecto de desarrollo web: un sitio para una empresa ficticia de decoración. Construido con HTML y CSS, este proyecto refleja mi evolución y aprendizaje continuo en el desarrollo web.
-
-### 🏠 [Inmoconexión](https://andresmoros.github.io/work/inmoconexion/)
-Una plataforma inmobiliaria ficticia con diseño responsivo. Implementé media queries para asegurar una experiencia fluida en dispositivos móviles y de escritorio.
-
-### 📰 [Punto de Vista](https://github.com/AndresMoros/punto-de-vista.github.io)
-Un portal de noticias desarrollado como parte de un proyecto académico. Incluye secciones de política, cultura, deportes y sociedad, con funcionalidades como reloj en tiempo real y clima dinámico.
+## 🚀 Proyectos
 
 ### 🧠 [js-problems](https://github.com/AndresMoros/js-problems)
 Repositorio de ejercicios y problemas de JavaScript que he resuelto para practicar y mejorar mis habilidades en programación.
