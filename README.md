@@ -14,11 +14,11 @@ Repositorio de ejercicios y problemas de JavaScript que he resuelto para practic
 ## 📊 Estadísticas y tecnologías
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMoros&layout=normal&hide=html&langs_count=8&theme=transparent&border_radius=0&card_width=500" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMoros&layout=normal&hide=html&langs_count=8&theme=onedark&border_radius=0&card_width=500" alt="Lenguajes más usados"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresMoros&show_icons=true&theme=transparent&border_radius=0&card_width=500&hide_rank=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresMoros&show_icons=true&theme=onedark&border_radius=0&card_width=500&hide_rank=true" alt="Estadísticas de GitHub" />
 </p>
 
 ---
