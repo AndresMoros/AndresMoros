@@ -11,6 +11,18 @@ Repositorio de ejercicios y problemas de JavaScript que he resuelto para practic
 
 ---
 
+## 📊 Estadísticas y tecnologías
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMoros&layout=compact&langs_count=8&theme=radical" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresMoros&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
+
+---
+
 ## 📚 Formación y Certificaciones
 
 - **Certificado de Profesionalidad IFCD0210**: Desarrollo de Aplicaciones con Tecnologías Web. [Repositorio de notas y ejercicios](https://github.com/AndresMoros/ifcd2010-andres-moros)
