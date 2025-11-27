@@ -11,31 +11,19 @@ Repositorio de ejercicios y problemas de JavaScript que he resuelto para practic
 
 ---
 
-## 📊 Estadísticas y tecnologías
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMoros&layout=normal&hide=html&langs_count=8&theme=onedark&border_radius=0&card_width=500" alt="Lenguajes más usados"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresMoros&show_icons=true&theme=onedark&border_radius=0&card_width=500&hide_rank=true" alt="Estadísticas de GitHub" />
-</p>
-
----
-
 ## 📚 Formación y Certificaciones
 
 - **Certificado de Profesionalidad IFCD0210**: Desarrollo de Aplicaciones con Tecnologías Web. [Repositorio de notas y ejercicios](https://github.com/AndresMoros/ifcd2010-andres-moros)
-- **freeCodeCamp**: Proyectos como [Technical Documentation Page](https://github.com/AndresMoros/technical-documentation-page-freeCodeCamp-) y [Survey Form](https://github.com/AndresMoros/survey-form-freeCodeCamp-)
-
+- **freeCodeCamp**: [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design-v9/) and [JavaScript Certification](https://www.freecodecamp.org/learn/javascript-v9/)
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Herramientas**: Git, GitHub, Visual Studio Code
-- **Frameworks y Librerías**: SwiperJS
-- **Diseño Responsivo**: Media Queries, Flexbox
+- **Backend**: PHP
+- **Herramientas**: Git, GitHub, Visual Studio Code, Zed
+- **Frameworks y Librerías**: Google AppScript
+- **Diseño Responsivo**: Media Queries, Flexbox, Grid
 
 ---
 
@@ -48,7 +36,7 @@ Explora más de mis proyectos en mi [sitio web personal](https://andresmoros.git
 ## 📫 Contacto
 
 - 📍 Madrid, España
-- 💼 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-moros-8905802aa/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-moros/)
 
 ¡Estoy abierto a colaboraciones y nuevas oportunidades! No dudes en contactarme.
 
